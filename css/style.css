@@ -38,6 +38,7 @@ section {
 
 /* ----HEADER---- */
 .header {
+  border-bottom: 1px solid #ececec;
 }
 .header-container {
   display: flex;
